@@ -88,9 +88,6 @@ In VS Code, open the Command Palette (Ctrl+Shift+P or Cmd+Shift+P on Mac).
 
 Search and select:
 
-makefile
-Copy
-Edit
 Ports: Forward a Port
 Enter your app’s port number (e.g., 3500, or 3000 in the demo).
 
