@@ -78,7 +78,7 @@ http://localhost:3500
 ---
 
 
-   How to Access the App on Your Mobile (via VS Code Port Forwarding)
+                                       ** How to Access the App on Your Mobile (via VS Code Port Forwarding)**
 If you're wondering how to access this real-time location tracker on your mobile device, follow these steps using Visual Studio Code’s Port Forwarding feature:
 
 ✅ Steps to Connect via Mobile:
