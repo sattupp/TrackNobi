@@ -29,7 +29,7 @@ This is a real-time location tracking web app built using **Node.js**, **Express
 
 ### 1. Clone the repository
 
-git clone https://github.com/your-username/TrackNobi.git
+git clone https://github.com/sattupp/TrackNobi.git
 
 
 ### 2. Install dependencies
